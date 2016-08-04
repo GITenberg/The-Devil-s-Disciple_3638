@@ -1,0 +1,29 @@
+_repo: The-Devil-s-Disciple_3638
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shaw, Bernard
+    alias: Shaw, George Bernard
+    birthdate: 1856
+    deathdate: 1950
+    gutenberg_agent_id: '467'
+    url: http://www.gutenberg.org/2009/agents/467
+    wikipedia: http://en.wikipedia.org/wiki/George_Bernard_Shaw
+description: ''
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3638'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Puritans -- Drama'
+- !lcsh 'Burgoyne, John, 1722-1792 -- Drama'
+- !lcsh 'New Hampshire -- History -- Revolution, 1775-1783 -- Drama'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Drama'
+- !lcc 'PR'
+- GITenberg
+title: The Devil's Disciple
+url: http://www.gutenberg.org/ebooks/3638
