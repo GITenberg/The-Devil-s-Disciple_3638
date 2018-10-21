@@ -13,7 +13,7 @@ Author: George Bernard Shaw
 Posting Date: April 24, 2009 [EBook #3638]
 Release Date: January, 2003
 First Posted: June 27, 2001
-Last Updated: April 12, 2006
+Last Updated: July 15, 2015
 
 Language: English
 
@@ -1589,7 +1589,7 @@ man of my cloth before, Sergeant?
 
 THE SERGEANT (instinctively respectful, half to the black coat, half to
 Richard's good breeding). Well, no sir. At least, only an army
-chaplain. (Showing the handcuffs.) I'm sorry, air; but duty--
+chaplain. (Showing the handcuffs.) I'm sorry, sir; but duty--
 
 RICHARD. Just so, Sergeant. Well, I'm not ashamed of them: thank you
 kindly for the apology. (He holds out his hands.)
@@ -3234,7 +3234,7 @@ and helps him on with his coat.
 JUDITH (stealing timidly to Anderson). Tony.
 
 ANDERSON (putting his arm round her shoulders and bantering her
-affectionately). Well what do you think of you husband, NOW,
+affectionately). Well what do you think of your husband, NOW,
 eh?--eh??--eh???
 
 JUDITH. I am ashamed-- (She hides her face against his breast.)
@@ -3262,7 +3262,7 @@ to me, I found that it was my destiny to be a man of action and that my
 place was amid the thunder of the captains and the shouting. So I am
 starting life at fifty as Captain Anthony Anderson of the Springtown
 militia; and the Devil's Disciple here will start presently as the
-Reverend Richard Dudgeon, and wag his pow in my old pulpit, and give
+Reverend Richard Dudgeon, and wag his paw in my old pulpit, and give
 good advice to this silly sentimental little wife of mine (putting his
 other hand on her shoulder. She steals a glance at Richard to see how
 the prospect pleases him). Your mother told me, Richard, that I should
@@ -3379,7 +3379,7 @@ contending against brothers and fellow subjects, we must also remember
 that we are contending in this crisis for the fate of the British
 Empire." Eighty-four years after his defeat, his republican conquerors
 themselves engaged in a civil war for the integrity of their Union. In
-1886 the Whigs who represented the anti-Burgoyne tradition of American
+1885 the Whigs who represented the anti-Burgoyne tradition of American
 Independence in English politics, abandoned Gladstone and made common
 cause with their political opponents in defence of the Union between
 England and Ireland. Only the other day England sent 200,000 men into
